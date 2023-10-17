@@ -1,0 +1,4 @@
+/target
+
+# ignore system shell-scripts
+*.sh
