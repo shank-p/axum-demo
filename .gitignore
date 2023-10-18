@@ -2,3 +2,6 @@
 
 # ignore system shell-scripts
 *.sh
+
+# ignore vscode workspace files
+.vscode/
